@@ -1,4 +1,4 @@
-# 한림대학교 소프트웨어융합대학
+# 
 ---
 <img src=tkwls.jpg height=150 width=150>
 박지수
