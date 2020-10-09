@@ -6,7 +6,7 @@
 ---
 
 소속 : 자연과학대학  
-전공 : [바이오메디컬]: https://biomedical.hallym.ac.kr/
+전공 : [바이오메디컬][biomedical]
 
 관심분야   
 * 생물정보학
