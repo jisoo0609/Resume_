@@ -1,11 +1,11 @@
 # 한림대학교 소프트웨어융합대학
 ---
-<img src=img.gif height=150 width=150>
+<img src=tkwls.jpg height=150 width=150>
 박지수
 
 ---
 
-소속 : 자연과학대학
+소속 : 자연과학대학  
 전공 : 바이오메디컬
 
 관심분야   
