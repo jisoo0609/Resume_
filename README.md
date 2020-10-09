@@ -1,12 +1,12 @@
 # 한림대학교 소프트웨어융합대학
 ---
 <img src=tkwls.jpg height=150 width=150>
-박지수
+**박지수**
 
 ---
 
 소속 : 자연과학대학  
-전공 : 바이오메디컬
+전공 : [바이오메디컬]: https://biomedical.hallym.ac.kr/
 
 관심분야   
 * 생물정보학
@@ -38,7 +38,7 @@ Instagram: [jisoo__0609][instagram]
 
 [github]: http://github.com/jisoo0609
 [instagram]: https://www.instagram.com/jisoo__0609/
-
+[biomedical]: https://biomedical.hallym.ac.kr/
 
 
 
